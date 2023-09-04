@@ -1,11 +1,11 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ALVIICELL/ALVI/main/premi.sh && chmod +x premi.sh && screen -S install ./premi.sh
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ALVIICELL/ALVI/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/ALVIICELL/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
