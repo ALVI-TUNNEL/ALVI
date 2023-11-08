@@ -4,6 +4,10 @@
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ALVI-TUNNEL/ALVI/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
 
+### INSTALL SCRIPT 2
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ALVI-TUNNEL/ALVI/main/ALVI.sh && chmod +x ALVI.sh && screen -S install ./ALVI.sh
+</code></pre>
+
 ### PERINTAH UPDATE 
 
 
