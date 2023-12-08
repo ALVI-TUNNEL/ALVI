@@ -8,6 +8,10 @@
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ALVI-TUNNEL/ALVI/main/ALVI.sh && chmod +x ALVI.sh && screen -S install ./ALVI.sh
 </code></pre>
 
+### INSTALL SCRIPT v3
+<pre><code> wget https://raw.githubusercontent.com/ALVI-TUNNEL/ALVI/main/v3.sh && chmod +x v3.sh && ./v3.sh
+</code></pre>
+
 ### PERINTAH UPDATE 
 
 
@@ -19,7 +23,7 @@
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
-- Xray Core by [@ALVIICELL](https://github.com/ALVI-TUNNEL)
+- Xray Core 
 - Penambahan fail2ban
 - Auto block sebagian ads indo by default
 - Auto clear log per 3 menit
